@@ -23,15 +23,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Microelectronics
+    institution: The University of Edinburgh
+    year: 2006
+  - course: MSc in Microelectronics
+    institution: The University of Edinburgh
+    year: 2003
+  - course: BSc (Hons) in Astrophysics
+    institution: The University of Edinburgh
+    year: 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +43,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/novp
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.nz/citations?hl=en&user=KmMox1kAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/novp2
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "Natalie.Plank@vuw.ac.nz"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Natalie Plank is a Senior Lecturer in Physics at Victoria University of Wellington and a Principal Investigator of the MacDiarmid Institute.  She runs the Nanomaterials Devices Group within the School of Chemical and Physical Sciences.  Here we are studying new ways of making electronic devices out of nanomaterials, including carbon nanotubes, metallic and semiconducting nanowires and organic conductors. Nanomaterials offer researchers a fascinating scope of properties to study in electronic devices. Due to the inherent size of the materials several areas of behaviour can be radically different from the bulk materials. As a consequence of this the global research effort in nanomaterials is huge and diverse.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+One of the key areas of excitement is in the field of nanomaterials for biosensors. Due to the enhanced surface to volume ratio of nanomaterials and their exceptional sensitivity to the surrounding environment it is possible to detect the presence of materials in the parts per billion range. We have been developing electronic platforms out of nanomaterials for biosensors using both aptamers and insect odorant receptors as the analyte detector unit.  Read on to find out more. 
