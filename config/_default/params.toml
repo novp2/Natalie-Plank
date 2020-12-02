@@ -93,7 +93,7 @@ phone = "04 463 5031"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Laby Building", city = "Wellington", region = "CA", postcode = "6012", country = "New Zealand", country_code = "NZ"}
+address = {street = "Laby Building", city = "Wellington", postcode = "6012", country = "New Zealand", country_code = "NZ"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
